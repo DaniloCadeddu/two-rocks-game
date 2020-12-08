@@ -1,4 +1,4 @@
-# two-rocks-game
+# Two rocks game
 Little strategic game made with Python
 
 ## Preview with a screenshot
